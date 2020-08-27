@@ -8,6 +8,12 @@ Not R-specific but a great read!
 
 https://www.manning.com/books/build-a-career-in-data-science
 
+## How to use Twitter DMs and cold Emails to get analytics interviews
+[Joe Hovde] (https://twitter.com/jhovde2121)
+
+Steps to use cold outreach to get analytics interviews at companies you're excited to work for.
+
+https://www.residualthoughts.com/2019/12/23/dming-your-way-into-an-analytics-job/
 
 ##  Twitter for R Programmers
 [Oscar Baruffa](https://twitter.com/OscarBaruffa), [Veerle van Son](https://twitter.com/veerlevanson)
